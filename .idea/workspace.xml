@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3617e598-044e-43c1-99f4-b512b2dfae8a" name="Changes" comment="">
+    <list default="true" id="3617e598-044e-43c1-99f4-b512b2dfae8a" name="Changes" comment="make form.jsp and form_ok.jsp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dlwns/IdeaProjects/JSPProject_22000575&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -68,7 +69,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="ab8bba31-8188-4c10-8a91-42ca769829bb" />
+        <option name="BASE_DIRECTORY_NAME" value="5720c4dc-2460-40fe-b58f-6c358a93151f" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -76,7 +77,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="57621" />
+        <option name="DEBUG_PORT" value="63165" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -155,11 +156,26 @@
       <option name="presentableId" value="Default" />
       <updated>1699524014243</updated>
       <workItem from="1699524015603" duration="599000" />
-      <workItem from="1699524674793" duration="4233000" />
+      <workItem from="1699524674793" duration="5124000" />
+      <workItem from="1699604304266" duration="218000" />
+      <workItem from="1699628276367" duration="380000" />
     </task>
+    <task id="LOCAL-00001" summary="make form.jsp and form_ok.jsp">
+      <option name="closed" value="true" />
+      <created>1699536602383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699536602383</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="make form.jsp and form_ok.jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="make form.jsp and form_ok.jsp" />
   </component>
 </project>
